@@ -106,7 +106,6 @@ badredenyx-plc\_tiaportal\_autowarehouse/
 
 ## 🎥 Demo Preview
 
-> *(You can replace this with your own GIF or video)*
 > ![Simulation Demo](Simulation.gif)
 
 ---
