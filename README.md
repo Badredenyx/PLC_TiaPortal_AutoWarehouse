@@ -107,7 +107,7 @@ badredenyx-plc\_tiaportal\_autowarehouse/
 ## 🎥 Demo Preview
 
 > *(You can replace this with your own GIF or video)*
-> ![Simulation Demo](https://github.com/SamiraHajizadeh/AutomatedWarehouse/blob/main/Simulation.gif)
+> ![Simulation Demo](https://github.com/Badredenyx/PLC_TiaPortal_AutoWarehouse/main/Simulation.gif)
 
 ---
 
